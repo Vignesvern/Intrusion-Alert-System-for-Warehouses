@@ -15,7 +15,7 @@ The Intrusion-Detection-System-for-Warehouses is designed to enhance security me
 
 ## Technologies Used
 - **Hardware**: ESP32, PIR sensor, Buzzer, LED, Bread board and Connecting wires.
-- **Software**: MQTT protocol and EMQX cloud for communication, FireBase as backend to store data.
+- **Software**: MQTT protocol and EMQX cloud for communication, FireBase as the backend to store data.
 - **Languages**: Dart, C++.
 - **Frameworks**: Flutter.
 
