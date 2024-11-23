@@ -27,8 +27,6 @@ The Intrusion-Detection-System-for-Warehouses is designed to enhance security me
 4. **Break-in Detection**: The system detects break-in attempts using the PIR sensor.
 5. **Notifications**: Users receive notifications via MQTT in case of a break-in.
 
-## License
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Acknowledgements
 - Special thanks to [Pethu Aravind](https://github.com/Aravind011464), [Sathishkumar](https://github.com/SathishKumar5115) & [Saikrishnan R](https://github.com/saikrishy3808u3qr3pur3q) for their contributions and support.
