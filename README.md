@@ -32,7 +32,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Acknowledgements
 - Special thanks to [Pethu Aravind](https://github.com/Aravind011464), [Sathishkumar](https://github.com/SathishKumar5115) & [Saikrishnan R](https://github.com/saikrishy3808u3qr3pur3q) for their contributions and support.
-- This project was inspired by the need for real-time monitoring and improvement of indoor air quality for healthier living environments.
+- This project was inspired by the need for enhanced security measures in warehouses.
 
 ## Contact
 For any inquiries or support, please contact [vignesvernb@gmail.com](vignesvernb@gmail.com).
